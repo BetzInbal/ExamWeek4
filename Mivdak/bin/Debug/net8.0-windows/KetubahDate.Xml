@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>תשרי</Month>
+    <Year> תשפ"ד </Year>
+    <Result>
+      <Result>באחד בשבת יום אחדלירח תשרי בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם </Result>
+    </Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>אדר</Month>
+    <Year> תשפ"ו </Year>
+    <Result>
+      <Result>ברביעי בשבת שבעה ימים לירח אדר בשנת חמשת אלפים ושבע מאות ושמנים ושש לבריאת העולם </Result>
+    </Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>אדר</Month>
+    <Year> תשפ"ו </Year>
+    <Result>
+      <Result>ברביעי בשבת יום שלשים לחודש אדר שהוא ראש חודש אדר בשנת חמשת אלפים ושבע מאות ושמנים ושש לבריאת העולם </Result>
+    </Result>
+  </Query>
+  <Query>
+    <Day>ששי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>אדר</Month>
+    <Year> תשפ"ד </Year>
+    <Result>
+      <Result>בששי בשבת יום שלשים לחודש אדר שהוא ראש חודש ניסן בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם </Result>
+    </Result>
+  </Query>
+</Queries>

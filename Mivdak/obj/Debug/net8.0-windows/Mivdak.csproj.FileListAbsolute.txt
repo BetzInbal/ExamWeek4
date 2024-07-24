@@ -1,0 +1,16 @@
+C:\Users\codco\source\repos\Mivdak\Mivdak\bin\Debug\net8.0-windows\Mivdak.exe
+C:\Users\codco\source\repos\Mivdak\Mivdak\bin\Debug\net8.0-windows\Mivdak.deps.json
+C:\Users\codco\source\repos\Mivdak\Mivdak\bin\Debug\net8.0-windows\Mivdak.runtimeconfig.json
+C:\Users\codco\source\repos\Mivdak\Mivdak\bin\Debug\net8.0-windows\Mivdak.dll
+C:\Users\codco\source\repos\Mivdak\Mivdak\bin\Debug\net8.0-windows\Mivdak.pdb
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.Form1.resources
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.csproj.GenerateResource.cache
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.AssemblyInfoInputs.cache
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.AssemblyInfo.cs
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.csproj.CoreCompileInputs.cache
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.dll
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\refint\Mivdak.dll
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.pdb
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\Mivdak.genruntimeconfig.cache
+C:\Users\codco\source\repos\Mivdak\Mivdak\obj\Debug\net8.0-windows\ref\Mivdak.dll
